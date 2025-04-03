@@ -1,10 +1,4 @@
-Here's a **simple and clean README.md** for your GitHub repository:  
 
----
-
-### **README.md**  
-
-```md
 # Terraform AWS EC2 Web Server Deployment 🚀
 
 This project uses **Terraform** to create an **AWS EC2 instance** with **Apache2** installed inside a custom VPC. The web server serves a basic HTML page.
