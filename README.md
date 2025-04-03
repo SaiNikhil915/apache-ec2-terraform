@@ -48,8 +48,6 @@ This project uses **Terraform** to create an **AWS EC2 instance** with **Apache2
   terraform destroy -auto-approve
   ```
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
 
